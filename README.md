@@ -19,12 +19,10 @@ Individual Data | 1 | 2 | 3 | 4
 Individual Results | 1 | 2 | 3 | 4
 Study Data | 1 | 2 | 3 | 4
 Study Results | 1 | 2 | 3 | 4
-1 | 2 | 3 | 4 | 5
-*Still* | `renders` | **nicely** | **nicely**
 
 # Resources
 
-*Collection of biomedical studies and their consent forms
-*Textual analysis of the consent form to create a sharing table
+* Collection of biomedical studies and their consent forms
+* Textual analysis of the consent form to create a sharing table
 
 
