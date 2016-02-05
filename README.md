@@ -8,9 +8,14 @@ This is a project for people who want to create a world-changing biomedical rese
 
 The aim of the Sharing Guidebook is to create a resource that shows how existing human research studies deploy different approaches to sharing. By looking at how different studies explain their sharing practices in their informed consent documents, the hope is that it will be easier for people improve their own approaches, practices, and preferences -- whether you are a research scientist or a paticipant in a research study.
 
-# Key Metrics
+# Project Set-up
 
-##Sharing Matrix
+## Biomedical Research Studies with public consent forms
+* [mPower] (http://parkinsonmpower.org/)
+* [Test My Brain] (https://testmybrain.org/)
+* [GoViral] (https://www.goviralstudy.com/)
+
+## Sharing Matrix
    |participant |	research team	| external scientists |	public
 --- | --- | --- | --- | ---
 Contact Information |  |  |  | 
