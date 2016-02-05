@@ -15,9 +15,10 @@ The aim of the Sharing Guidebook is to create a resource that shows how existing
 --- | --- | --- | --- | ---
 Contact Information |  |  |  | 
 Individual Data |  |  |  | 
-Individual Results | 1 | 2 | 3 | 4
-Study Data | 1 | 2 | 3 | 4
-Study Results | 1 | 2 | 3 | 4
+Individual Results |  |  |  | 
+Study Data |  |  |  | 
+Study Results |  |  |  | 
+
 
 # Resources
 
