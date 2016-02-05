@@ -2,7 +2,7 @@
 
 # Welcome!
 
-Hello! So glad you are here!   :)
+Hello! So glad you are here!   :smile:
 
 This is a project for people who want to create a world-changing biomedical research study or contribute to existing one.  
 
