@@ -9,13 +9,20 @@ The aim of the Sharing Guidebook is to create a resource that shows how existing
 
 # Key Metrics
 
+##Sharing Matrix
    |participant |	research team	| external scientists |	public
 --- | --- | --- | --- | ---
+Contact Information | 1 | 2 | 3 | 4
+Individual Data | 1 | 2 | 3 | 4
+Individual Results | 1 | 2 | 3 | 4
+Study Data | 1 | 2 | 3 | 4
+Study Results | 1 | 2 | 3 | 4
+1 | 2 | 3 | 4 | 5
 *Still* | `renders` | **nicely** | **nicely**
-1 | 2 | 3 | 4
 
 # Resources
 
-
+*Collection of biomedical studies and their consent forms
+*Textual analysis of the consent form to create a sharing table
 
 
