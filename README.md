@@ -19,10 +19,17 @@ Individual Results |  |  |  |
 Study Data |  |  |  | 
 Study Results |  |  |  | 
 
+| Fields  |
+|---------|
+| Yes     |
+| Maybe   |
+| No      |
+| Unclear |
+
 
 # Resources
-
 * Collection of biomedical studies and their consent forms
-* Textual analysis of the consent form to create a sharing table
+* Textual analysis of each consent form 
+* Sharing matrix for each study
 
 
