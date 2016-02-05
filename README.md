@@ -1,12 +1,12 @@
-# sharing-guidebook
+# Sharing Guidebook
 
 # Welcome!
 
 Hello! So glad you are here!   :smile:
 
-This is a project for people who want to create a world-changing biomedical research study or contribute to existing one.  
+This is a project for people who want to create a world-changing biomedical research study or contribute to an existing one. Research studies can vary wildly in how they approach sharing data and results with different groups of people. 
 
-The aim of the Sharing Guidebook is to create a resource that shows how various human research studies deploy different approaches to sharing. By looking at how different studies explain their sharing practices in their informed consent documents, the hope is that it will be easier for people improve their own approaches, practices, and preferences -- whether you are a research scientist or a paticipant in a research study.
+The aim of the Sharing Guidebook is to create a resource that shows the different different approaches to sharing that research studies have deployed. By looking at how different studies explain their sharing practices in their informed consent documents, the hope is that it will be easier for people improve their own approaches, practices, and preferences -- whether you are a research scientist or a paticipant in a research study.
 
 # Project Set-up
 
