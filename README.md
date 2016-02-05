@@ -19,34 +19,16 @@ Individual Results |  |  |  |
 Study Data |  |  |  | 
 Study Results |  |  |  | 
 
+| Fields  |
+|---------|
+| Yes     |
+| Maybe   |
+| No      |
+| Unclear |
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-njjd{background-color:#9b9b9b;color:#000000;vertical-align:top}
-.tg .tg-yw4l{vertical-align:top}
-.tg .tg-u722{background-color:#34ff34;vertical-align:top}
-.tg .tg-9nn2{background-color:#f8ff00;color:#000000;vertical-align:top}
-.tg .tg-q9qv{background-color:#fe0000;vertical-align:top}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-yw4l">Fields</th>
-  </tr>
-  <tr>
-    <td class="tg-u722">Yes</td>
-  </tr>
-  <tr>
-    <td class="tg-9nn2">Maybe</td>
-  </tr>
-  <tr>
-    <td class="tg-q9qv">No</td>
-  </tr>
-  <tr>
-    <td class="tg-njjd">Unclear</td>
-  </tr>
-</table>
+
+##Textual Analysis of Consent Forms
+text here
 
 # Resources
 * Collection of biomedical studies and their consent forms
